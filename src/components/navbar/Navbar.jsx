@@ -3,8 +3,7 @@ import { NavLink } from "react-router-dom";
 import { GlobalContext } from "../../context/GlobalContext";
 
 const Navbar = () => {
-  const { searchParam, setSearchParam, handleSubmit } =
-    useContext(GlobalContext);
+  const { setSearchParam, handleSubmit } = useContext(GlobalContext);
 
   return (
     <nav className="flex justify-between items-center py-8 container mx-auto flex-col lg:flex-row gap-5 lg:gap-0 bg-white/60 p-6 rounded-t-lg shadow-md">
