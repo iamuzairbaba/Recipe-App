@@ -5,7 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+### `git clone (url-for-this-repo)`
+
+clone the app to your system.\
+### `npm install `
+
+Install the necessary dependencies
 
 ### `npm start`
 
