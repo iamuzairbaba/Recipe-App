@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Recipe-App
+RizziPy is a web application that allows users to search for recipes and save their favorite recipes. This app provides a clean interface for cooking enthusiasts to discover and organize their favorite recipes.  Getting Started:  1. Clone the repository: `git clone 2. Install dependencies: npm install 3. Start the app: npm start
+>>>>>>> ab421b894aeb3a15f127beb8da93fd08a546a295
